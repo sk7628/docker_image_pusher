@@ -1,5 +1,4 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+nevinee/qbittorrent:latest
+nevinee/qbittorrent:4.6.4
+homeassistant/home-assistant:latest
+homeassistant/home-assistant:2024.5.5
